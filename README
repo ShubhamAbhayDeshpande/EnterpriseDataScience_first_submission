@@ -6,3 +6,15 @@ The notebook 'Percentage_infected_people_V1.0.ipynb' gives the totoal percentage
 
 
 The notebook 'Vaccination_V_1.0.ipynb' gives the total percentage of a country's population which is fully vaccinated against COVID-19. 
+
+
+The data sources used in the notebooks are as follows:
+
+1. For number of infected people in each country:
+https://github.com/CSSEGISandData/COVID-19.git
+
+2. For number of vaccinated people in each country: 
+https://github.com/govex/COVID-19
+
+3. For the population of each country:
+https://github.com/govex/COVID-19
