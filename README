@@ -2,12 +2,7 @@ This repository contains the first sumbmission of Enterprise Data Science.
 
 This repository contains two notebooks. 
 
-The notebook 'Percentage_infected_people_V1.0.ipynb' gives the totoal percentage population of a country infected by COVID-19. The outpuy of the notebook should look like this: 
-
-/home/dell/Downloads/percentage_infected.png
+The notebook 'Percentage_infected_people_V1.0.ipynb' gives the totoal percentage population of a country infected by COVID-19. 
 
 
-The notebook 'Vaccination_V_1.0.ipynb' gives the total percentage of a country's population which is fully vaccinated against COVID-19. The output of the notebook should like this.
-
-
-/home/dell/Downloads/percentage_vaccination.png
+The notebook 'Vaccination_V_1.0.ipynb' gives the total percentage of a country's population which is fully vaccinated against COVID-19. 
